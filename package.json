@@ -1,0 +1,29 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "this is complete react course",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbsakshi/learn-react.git"
+  },
+  "keywords": [],
+  "author": "sakshi bansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbsakshi/learn-react/issues"
+  },
+  "homepage": "https://github.com/sbsakshi/learn-react#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
